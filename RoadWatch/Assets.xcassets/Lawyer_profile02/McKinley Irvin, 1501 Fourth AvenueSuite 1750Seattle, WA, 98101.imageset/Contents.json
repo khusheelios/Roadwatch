@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "McKinley Irvin, 1501 Fourth AvenueSuite 1750Seattle, WA, 98101.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "McKinley Irvin, 1501 Fourth AvenueSuite 1750Seattle, WA, 98101@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "McKinley Irvin, 1501 Fourth AvenueSuite 1750Seattle, WA, 98101@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
